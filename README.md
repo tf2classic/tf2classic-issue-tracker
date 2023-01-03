@@ -1,6 +1,6 @@
-# tf2classic-issue-tracker
-This repository exists solely for reporting bugs in Team Fortress 2 Classic. It is NOT for technical support.
+# Team Fortress 2 Classic Issue Tracker
+Report issues related to TF2 Classic here. Please ensure the bug you're reporting hasn't been reported yet, and happens without mods.
 
-Before reporting an issue, ensure it hasn't already been reported, and then thoroughly document it with all of the information you have regarding your setup, what caused it, what you suspect the issue might be, etc.
+If you're having personal issues regarding the game, check the [Troubleshooting page](https://wiki.tf2classic.com/wiki/Troubleshooting) on our official wiki, or ask in the #technical-issues channel of our [Discord](https://discord.gg/3zMk4vn).
 
-Issues should be easily reproducible, and clearly the fault of the game. If you're having personal issues regarding the game, check the [Troubleshooting page](https://wiki.tf2classic.com/wiki/Troubleshooting) and/or ask in the #technical-issues channel of our [Discord](https://discord.gg/3zMk4vn).
+You can create a new bug report **[here](https://github.com/tf2classic/tf2classic-issue-tracker/issues/new)**. Requires a GitHub account.
